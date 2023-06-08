@@ -1,6 +1,8 @@
 # Udacity Data Engineer Nanodegree
 
-This repository showcases a portfolio of work from the Udacity Data Engineer Nanodegree. The projects encompass designing data models, building data warehouses and data lakes, automating data pipelines, and working with massive datasets.
+This coursework was completed as part of Udacity's Data Engineer Nanodegree. I obtained [my certification in 2021](https://graduation.udacity.com/confirm/ZLTQLLDW), and this repository is a collection of the projects I undertook during the program.
+
+This repository showcases a portfolio of my work from the Udacity Data Engineer Nanodegree. The projects encompass a variety of skills including designing data models, building data warehouses and data lakes, automating data pipelines, and working with massive datasets.
 
 ## 1. Data Modelling with PostgreSQL
 
